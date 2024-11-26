@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YzBO0IV5koAWru8X1aqWFFXKUEN5Cva1shI26jdbG/uwtAhZ/5/jcXEEzf23PnmPB9sRzJZPOz1DbVn14ViwtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\i3gyzp\\Source\\Repos\\polini46corvinus\\itgyak11\\Itgyak11\\Itgyak11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i3gyzp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
